@@ -5,3 +5,11 @@ body {
 h1 {
     color: brown;
 }
+
+li {
+    margin: 0px 30px 0px 0px;
+}
+
+.dots {
+    display: flex;
+}
