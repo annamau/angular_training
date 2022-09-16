@@ -1,0 +1,28 @@
+{
+  "name": "angular_training",
+  "version": "0.0.1",
+  "description": "example nodejs",
+  "main": "js/function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/function.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annamau/angular_training.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "example"
+  ],
+  "author": "andre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annamau/angular_training/issues"
+  },
+  "homepage": "https://github.com/annamau/angular_training#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
