@@ -1,9 +1,0 @@
-class Password {
-    constructor() {
-
-    }
-}
-
-function main() {
-
-}
